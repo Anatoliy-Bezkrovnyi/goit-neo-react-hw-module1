@@ -1,0 +1,5 @@
+.transactionType {
+  text-transform: capitalize;
+  padding-left: 40px;
+  text-align: left;
+}
